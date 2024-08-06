@@ -1,6 +1,5 @@
 <?php
 
-// 
 // https://leetcode.com/problems/two-sum/solutions/5590941/two-sum/
 
 namespace TwoSum;
