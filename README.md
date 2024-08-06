@@ -12,10 +12,10 @@ You can return the answer in any order.
 ### Submissions
 
 - **[PHP](https://leetcode.com/problems/two-sum/submissions/1345315673/)**
-- **[Python](https://leetcode.com/problems/two-sum/submissions/1345399066/)**
+- **[Python3](https://leetcode.com/problems/two-sum/submissions/1345399066/)**
 - **[C](https://leetcode.com/problems/two-sum/submissions/1345429916/)**
 
 ### Solutions
 - **[PHP](https://leetcode.com/problems/two-sum/solutions/5590941/two-sum/)**
-- **[Python](https://leetcode.com/problems/two-sum/solutions/5591381/two-sum/)**
+- **[Python3](https://leetcode.com/problems/two-sum/solutions/5591381/two-sum/)**
 - **[C](https://leetcode.com/problems/two-sum/solutions/5591536/two-sum/)**
